@@ -1,0 +1,302 @@
+.register-step {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .register-step .overlap-wrapper {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1440px;
+    height: 970px;
+  }
+  
+  .register-step .overlap {
+    position: relative;
+    width: 1470px;
+    height: 970px;
+  }
+  
+  .register-step .overlap-group {
+    position: absolute;
+    width: 1470px;
+    height: 970px;
+    top: 0;
+    left: 0;
+  }
+  
+  .register-step .rectangle {
+    position: absolute;
+    width: 1440px;
+    height: 68px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+  }
+  
+  .register-step .div {
+    position: absolute;
+    width: 1440px;
+    height: 68px;
+    top: 23px;
+    left: 30px;
+    background-color: #ffffff;
+  }
+  
+  .register-step .element {
+    position: absolute;
+    width: 701px;
+    height: 970px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .register-step .new-new-logo-white {
+    position: absolute;
+    width: 90px;
+    height: 110px;
+    top: 57px;
+    left: 67px;
+    object-fit: cover;
+  }
+  
+  .register-step .text-wrapper {
+    position: absolute;
+    width: 401px;
+    top: 154px;
+    left: 835px;
+    font-family: "Poppins-Black", Helvetica;
+    font-weight: 900;
+    color: #181818;
+    font-size: 28px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .register-step .do-you-already-have {
+    position: absolute;
+    width: 400px;
+    top: 813px;
+    left: 837px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0.32px;
+    line-height: normal;
+  }
+  
+  .register-step .span {
+    color: #4f4f4f;
+    letter-spacing: 0.05px;
+  }
+  
+  .register-step .text-wrapper-2 {
+    color: #fa5564;
+    letter-spacing: 0.05px;
+    text-decoration: underline;
+  }
+  
+  .register-step .text-wrapper-3 {
+    position: absolute;
+    top: 226px;
+    left: 836px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #181818;
+    font-size: 14px;
+    letter-spacing: 0.28px;
+    line-height: 19.6px;
+    white-space: nowrap;
+  }
+  
+  .register-step .email-address {
+    display: inline-flex;
+    align-items: flex-start;
+    position: absolute;
+    top: 258px;
+    left: 836px;
+  }
+  
+  .register-step .div-wrapper {
+    display: flex;
+    width: 400px;
+    align-items: center;
+    gap: 10px;
+    padding: 11px 12px 12px;
+    position: relative;
+    background-color: var(--gray-6);
+    border-radius: 29px;
+    box-shadow: 0px 0px 6px #c3d1db;
+  }
+  
+  .register-step .text-wrapper-4 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: var(--gray-6);
+    font-size: 15px;
+    letter-spacing: 0.3px;
+    line-height: 21px;
+    white-space: nowrap;
+  }
+  
+  .register-step .text-wrapper-5 {
+    position: absolute;
+    top: 314px;
+    left: 837px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #181818;
+    font-size: 14px;
+    letter-spacing: 0.28px;
+    line-height: 19.6px;
+    white-space: nowrap;
+  }
+  
+  .register-step .text-wrapper-6 {
+    position: absolute;
+    top: 402px;
+    left: 837px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #181818;
+    font-size: 14px;
+    letter-spacing: 0.28px;
+    line-height: 19.6px;
+    white-space: nowrap;
+  }
+  
+  .register-step .text-wrapper-7 {
+    position: absolute;
+    top: 490px;
+    left: 837px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #181818;
+    font-size: 14px;
+    letter-spacing: 0.28px;
+    line-height: 19.6px;
+    white-space: nowrap;
+  }
+  
+  .register-step .email-address-wrapper {
+    display: inline-flex;
+    align-items: flex-start;
+    position: absolute;
+    top: 346px;
+    left: 837px;
+  }
+  
+  .register-step .overlap-2 {
+    position: absolute;
+    width: 400px;
+    height: 44px;
+    top: 434px;
+    left: 837px;
+  }
+  
+  .register-step .email-address-2 {
+    display: inline-flex;
+    align-items: flex-start;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .register-step .group {
+    position: absolute;
+    width: 18px;
+    height: 15px;
+    top: 14px;
+    left: 365px;
+  }
+  
+  .register-step .overlap-3 {
+    position: absolute;
+    width: 400px;
+    height: 44px;
+    top: 522px;
+    left: 837px;
+  }
+  
+  .register-step .frame {
+    top: 736px;
+    left: 838px;
+    background-color: #ffffff;
+    border-radius: 32px;
+    border: 1px solid;
+    border-color: #fa5564;
+    display: flex;
+    width: 400px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 12px 18px;
+    position: absolute;
+  }
+  
+  .register-step .image {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    object-fit: cover;
+  }
+  
+  .register-step .continua-con-google {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: var(--gray-2);
+    font-size: 15px;
+    letter-spacing: 0.3px;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .register-step .line {
+    position: absolute;
+    width: 400px;
+    height: 1px;
+    top: 686px;
+    left: 843px;
+    object-fit: cover;
+  }
+  
+  .register-step .log-in-wrapper {
+    top: 602px;
+    left: 835px;
+    background-color: #fa5564;
+    border-radius: 30px;
+    display: flex;
+    width: 400px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 12px 18px;
+    position: absolute;
+  }
+  
+  .register-step .log-in {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 15px;
+    letter-spacing: 0.3px;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
